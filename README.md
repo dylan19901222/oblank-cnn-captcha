@@ -1,5 +1,7 @@
 # 王道自動換匯機器人
 
+webdriver目前為mac os 版本，請依照自身os調整webdriver
+
 ## image_crawler
 
   - 自動化擷取官網圖檔
